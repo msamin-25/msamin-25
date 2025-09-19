@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohammad Samin and I'm a CS Student at the University of Waterloo.</h2>
+<h2 align="left">Hi there 👋! My name is Mohammad Samin.</h2>
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
