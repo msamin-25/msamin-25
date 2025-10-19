@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm from London, ON, Canada <br><br>- 🔭 I’m studying at the moment, and seeking 2026 Summer Internship <br>- 📚 I'm currently learning Mathematical analysis on ML <br>- ⚡ In my free time I play Intramural soccer. </p>
+<p align="left">I'm from London, ON, Canada <br><br>- 🔭 I’m studying at the moment, and seeking 2026 Summer Internship <br>- 📚 I'm currently learning Mathematical analysis on ML <br>- ⚡ In my free time, I play either soccer or building something cool. </p>
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥  My Activities :</h3>
 
 ###
 
