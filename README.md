@@ -53,14 +53,24 @@
 
 ###
 
-<h3 align="left">🔥  My Activities :</h3>
-
-###
-
+<h3 align="left">🔥 My Activities :</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msamin-25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msamin-25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=msamin-25&show_icons=true&hide_title=false&hide_rank=false&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
+    alt="stats graph"
+    height="150"
+  />
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=msamin-25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"
+    alt="languages graph"
+    height="150"
+  />
+
 </div>
 
 ###
