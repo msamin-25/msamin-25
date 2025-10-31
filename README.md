@@ -1,78 +1,74 @@
-<h2 align="left">Hi there 👋! My name is Mohammad Samin.</h2>
+<!-- 👋 Header -->
+<h2 align="left">Hi there 👋 My name is Mohammad Samin.</h2>
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="waving hand gif" />
 </div>
 
 ###
 
+<!-- 🔗 Social badges -->
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/mohammad-samin/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      height="25"
+      alt="LinkedIn badge"
+    />
+  </a>
 
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://x.com/itz_samin" target="_blank">
+    <img
+      src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"
+      height="25"
+      alt="X (Twitter) badge"
+    />
+  </a>
 </div>
 
 ###
 
+<!-- 👀 Visitor counter -->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img
+    src="https://visitor-badge.laobi.icu/badge?page_id=msamin-25.msamin-25"
+    alt="profile visitor badge"
+  />
 </div>
 
-###
+<!-- 🙋 About Me -->
+<h3 align="left">🙋 About Me</h3>
+
+<p align="left">
+  • I'm from London, ON, Canada.<br>
+  • I’m studying CS at the University of Waterloo and seeking a Summer 2026 internship.<br>
+  • I'm currently deep into mathematical analysis and ML, and I love building projects that help students learn faster.<br>
+  • In my free time, I play soccer or build something cool. ⚽💻
+</p>
 
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm from London, ON, Canada <br><br>- 🔭 I’m studying at the moment, and seeking 2026 Summer Internship <br>- 📚 I'm currently learning Mathematical analysis on ML <br>- ⚡ In my free time, I play either soccer or building something cool. </p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-</div>
-
-###
-
-###
-
+<!-- 🔥 My Activities / GitHub cards -->
 <h3 align="left">🔥 My Activities :</h3>
 
 <div align="center">
-
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=msamin-25&show_icons=true&hide_title=false&hide_rank=false&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
-    alt="stats graph"
-    height="150"
-  />
-
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=msamin-25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"
-    alt="languages graph"
-    height="150"
-  />
-
+  <a href="https://github.com/msamin-25">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=msamin-25&show_icons=true&hide_title=false&hide_rank=false&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
+      alt="GitHub stats"
+      height="130"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/msamin-25">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=msamin-25&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=false&order=2"
+      alt="Top languages"
+      height="130"
+    />
+  </a>
 </div>
 
 ###
 
-###
