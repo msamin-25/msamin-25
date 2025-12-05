@@ -46,7 +46,6 @@
   • In my free time, I play soccer or build something cool. ⚽💻
 </p>
 
-
 ###
 
 <!-- 🔥 My Activities / GitHub cards -->
