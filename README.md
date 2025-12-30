@@ -153,16 +153,15 @@
 
 <div align="center">
   <img
-    height="150"
-    src="https://github-readme-stats.vercel.app/api?username=msamin-25&show_icons=true&theme=dracula&hide_border=false"
-    alt="GitHub Stats"
+  src="https://github-readme-stats.vercel.app/api?username=msamin-25&amp;show_icons=true&amp;theme=dracula&amp;hide_border=false"
+  alt="GitHub Stats"
   />
   &nbsp;&nbsp;
   <img
-    height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=msamin-25&layout=compact&theme=dracula&hide_border=false"
-    alt="Top Languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=msamin-25&amp;layout=compact&amp;theme=dracula&amp;hide_border=false"
+  alt="Top Languages"
   />
+  
 </div>
 
 <br/>
@@ -182,7 +181,3 @@
   <i>If you're hiring for Summer 2026 and want someone who ships fast and learns faster — let's talk.</i>
 </div>
 
-## 📈 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msamin-25&show_icons=true&theme=dracula&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msamin-25&layout=compact&theme=dracula&hide_border=false)
