@@ -148,24 +148,6 @@
 
 <br/>
 
-<!-- Stats -->
-<h2>📈 GitHub</h2>
-
-<div align="center">
-  <img
-  src="https://github-readme-stats.vercel.app/api?username=msamin-25&amp;show_icons=true&amp;theme=dracula&amp;hide_border=false"
-  alt="GitHub Stats"
-  />
-  &nbsp;&nbsp;
-  <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=msamin-25&amp;layout=compact&amp;theme=dracula&amp;hide_border=false"
-  alt="Top Languages"
-  />
-  
-</div>
-
-<br/>
-
 <!-- Contact -->
 <h2>📫 Contact</h2>
 
