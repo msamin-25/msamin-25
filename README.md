@@ -173,7 +173,7 @@
 <p>
   <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/mohammad-samin/" target="_blank">mohammad-samin</a><br/>
   <b>X:</b> <a href="https://x.com/itz_samin" target="_blank">@itz_samin</a><br/>
-  <b>Email:</b> YOUR_EMAIL_HERE
+  <b>Email:</b> msamin[at]uwaterloo[dot]ca
 </p>
 
 <br/>
