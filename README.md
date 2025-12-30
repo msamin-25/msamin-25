@@ -181,3 +181,8 @@
 <div align="center">
   <i>If you're hiring for Summer 2026 and want someone who ships fast and learns faster — let's talk.</i>
 </div>
+
+## 📈 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msamin-25&show_icons=true&theme=dracula&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msamin-25&layout=compact&theme=dracula&hide_border=false)
