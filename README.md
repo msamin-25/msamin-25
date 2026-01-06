@@ -7,7 +7,7 @@
 <div align="center">
 
   <h1>Hi, I'm Mohammad Samin 👋</h1>
-  <p><b>Computer Science @ University of Waterloo</b> · Builder of clean UI + smart systems · Seeking <b>Summer 2026</b> internship</p>
+  <p><b>Computer Science @ University of Waterloo</b> · Interests in building somethings new. Full Stack Developer· Seeking <b>Summer 2026</b> internship</p>
 
   <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Waving hand gif" />
 
