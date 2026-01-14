@@ -29,7 +29,7 @@
   <!-- Quick badges -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=msamin-25.msamin-25" alt="visitor badge" />
   <img src="https://img.shields.io/badge/Location-Canada-2ea44f" alt="Location"/>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20ML-blue" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Dev-blue" alt="Focus"/>
 
 </div>
 
