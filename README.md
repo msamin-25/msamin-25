@@ -81,19 +81,15 @@
 <h2>📊 GitHub Stats</h2>
 
 <div align="center">
-  <!-- Overall stats -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=msamin-25&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub Stats" />
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api?username=msamin-25&show_icons=true&hide_border=true&theme=github_dark"
+       alt="GitHub Stats" />
 
-  <!-- Streak -->
-  <img height="160" src="https://streak-stats.demolab.com?user=msamin-25&hide_border=true&theme=github-dark-blue" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <!-- Top languages -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msamin-25&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" />
+  <img height="160"
+       src="https://streak-stats.demolab.com?user=msamin-25&hide_border=true&theme=github-dark-blue"
+       alt="GitHub Streak" />
 </div>
 
-<br/>
 
 <!-- Contact -->
 <h2>📫 Contact</h2>
