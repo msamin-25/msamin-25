@@ -71,7 +71,8 @@
 <h2>🧰 Tech Stack</h2>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,express,sql,git,github,figma,c" />
+  <!-- Added TypeScript, JavaScript, C explicitly (plus your existing stack) -->
+  <img src="https://skillicons.dev/icons?i=ts,js,c,python,html,css,react,nodejs,express,sql,git,github,figma" />
 </div>
 
 <br/>
