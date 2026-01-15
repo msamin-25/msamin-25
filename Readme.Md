@@ -67,21 +67,45 @@
 
 <br/>
 
-<!-- Tech Stack -->
-<h2>🧰 Tech Stack</h2>
-<!-- Tech Stack -->
+<!-- Tech Stack (all as shields-style badges) -->
 <h2>🧰 Tech Stack</h2>
 
-<!-- Icon row (includes everything from your resume stack that skillicons supports) -->
-<div>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,c,html,css,react,nodejs,git,github,figma,aws,linux,ubuntu,redhat,vscode,pycharm" />
-</div>
+<div style="margin-top:10px; display:flex; flex-wrap:wrap; gap:8px;">
 
-<!-- Optional: tools skillicons DOESN'T support well (Canva, TestFlight, Racket) as small badges -->
-<div style="margin-top:10px;">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="24" />
-  <img src="https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white" height="24" />
-  <img src="https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=apple&logoColor=white" height="24" />
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Racket-111111?style=for-the-badge&logo=racket&logoColor=white" height="24" />
+
+  <!-- Frameworks / Runtime -->
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=white" height="24" />
+
+  <!-- Cloud -->
+  <img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=white" height="24" />
+
+  <!-- OS / Systems -->
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Ubuntu-111111?style=for-the-badge&logo=ubuntu&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Red%20Hat%20Enterprise%20Linux-111111?style=for-the-badge&logo=redhat&logoColor=white" height="24" />
+
+  <!-- Version Control -->
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" height="24" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/PyCharm-111111?style=for-the-badge&logo=pycharm&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Canva-111111?style=for-the-badge&logo=canva&logoColor=white" height="24" />
+
+  <!-- Testing / QA -->
+  <img src="https://img.shields.io/badge/TestFlight-111111?style=for-the-badge&logo=apple&logoColor=white" height="24" />
+
 </div>
 
 
