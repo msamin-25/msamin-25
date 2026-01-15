@@ -114,10 +114,9 @@
 <h2>📊 GitHub Stats</h2>
 
 <div align="center">
-
-  <img height="160"
-       src="https://streak-stats.demolab.com?user=msamin-25&hide_border=true&theme=github-dark-blue"
-       alt="GitHub Streak" />
+     <a href="https://git.io/streak-stats">
+       <img src="https://streak-stats.demolab.com?user=msamin-25&amp;theme=github-dark-blue&amp;hide_border=true" />
+     </a>
 </div>
 
 
