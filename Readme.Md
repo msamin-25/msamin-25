@@ -114,14 +114,12 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=msamin-25&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msamin-25&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-  </a>
+     <a href="https://github.com/anuraghazra/github-readme-stats">
+       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+     </a>
+     <a href="https://github.com/anuraghazra/convoychat">
+       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+     </a>
 </p>
 <br/>
 
