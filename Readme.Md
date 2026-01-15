@@ -113,18 +113,14 @@
 
 <h2>📊 GitHub Stats</h2>
 
-     <p align="center">
-       <a href="https://git.io/streak-stats">
-         <img
-           src="https://streak-stats.demolab.com?user=msamin-25&amp;theme=github-dark-blue&amp;hide_border=true"
-           alt="GitHub Streak"
-         />
-       </a>
-     </p>
-
-</div>
-
-
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=msamin-25&amp;theme=github-dark-blue&amp;hide_border=true"
+      alt="GitHub Streak"
+    />
+  </a>
+</p>
 
 <!-- Contact -->
 <h2>📫 Contact</h2>
