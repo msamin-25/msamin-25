@@ -82,8 +82,9 @@
 
 <div align="center">
   <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=msamin-25&show_icons=true&hide_border=true&theme=github_dark"
-       alt="GitHub Stats" />
+     src="https://github-readme-stats.vercel.app/api?username=msamin-25&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=86400&v=1"
+     alt="GitHub Stats" />
+
 
   <img height="160"
        src="https://streak-stats.demolab.com?user=msamin-25&hide_border=true&theme=github-dark-blue"
