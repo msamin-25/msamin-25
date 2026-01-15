@@ -69,11 +69,21 @@
 
 <!-- Tech Stack -->
 <h2>🧰 Tech Stack</h2>
+<!-- Tech Stack -->
+<h2>🧰 Tech Stack</h2>
 
+<!-- Icon row (includes everything from your resume stack that skillicons supports) -->
 <div>
-  <!-- Added TypeScript, JavaScript, C explicitly (plus your existing stack) -->
-  <img src="https://skillicons.dev/icons?i=pythonts,js,c,c++,html,css,react,nodejs,express,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,c,html,css,react,nodejs,git,github,figma,aws,linux,ubuntu,redhat,vscode,pycharm" />
 </div>
+
+<!-- Optional: tools skillicons DOESN'T support well (Canva, TestFlight, Racket) as small badges -->
+<div style="margin-top:10px;">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=apple&logoColor=white" height="24" />
+</div>
+
 
 <br/>
 
