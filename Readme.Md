@@ -114,9 +114,8 @@
 <h2>📊 GitHub Stats</h2>
 
 <div align="center">
-     <a href="https://git.io/streak-stats">
-       <img src="https://streak-stats.demolab.com?user=msamin-25&amp;theme=github-dark-blue&amp;hide_border=true" />
-     </a>
+     [![GitHub Streak](https://streak-stats.demolab.com?user=msamin-25&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
 
