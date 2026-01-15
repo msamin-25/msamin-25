@@ -78,40 +78,23 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" height="24" alt="CSS3" />
   <img src="https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge&amp;logo=racket&amp;logoColor=white" height="24" alt="Racket" />
 
-  <br /><br />
-
   <!-- Frameworks / Runtime -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=000000" height="24" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" height="24" alt="Node.js" />
-
-  <br /><br />
-
   <!-- Cloud -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" height="24" alt="AWS" />
-
-  <br /><br />
-
   <!-- OS / Systems -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=000000" height="24" alt="Linux" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" height="24" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Red%20Hat%20Enterprise%20Linux-EE0000?style=for-the-badge&amp;logo=redhat&amp;logoColor=white" height="24" alt="RHEL" />
-
-  <br /><br />
-
   <!-- Version Control -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" height="24" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" height="24" alt="GitHub" />
-
-  <br /><br />
-
   <!-- Tools -->
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" height="24" alt="VS Code" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&amp;logo=pycharm&amp;logoColor=white" height="24" alt="PyCharm" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" height="24" alt="Figma" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&amp;logo=canva&amp;logoColor=white" height="24" alt="Canva" />
-
-  <br /><br />
-
   <!-- Testing / QA -->
   <img src="https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&amp;logo=apple&amp;logoColor=white" height="24" alt="TestFlight" />
 </div>
