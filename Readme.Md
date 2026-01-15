@@ -115,9 +115,15 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=msamin-25&amp;theme=github-dark-blue&amp;hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=msamin-25&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msamin-25&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+<br/>
 
 <!-- Contact -->
 <h2>📫 Contact</h2>
