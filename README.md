@@ -61,7 +61,7 @@
   </tr>
   <tr>
     <td><b>Strengths</b></td>
-    <td>Systems thinking · Consistency · Ownership · Learning speed</td>
+    <td>Problem-Solving . Systems thinking · Consistency · Attention to detail · Learning speed</td>
   </tr>
 </table>
 
@@ -80,9 +80,6 @@
 <h2>📊 GitHub Stats</h2>
 
 <div align="center">
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=msamin-25&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=86400&v=1"
-       alt="GitHub Stats" />
 
   <img height="160"
        src="https://streak-stats.demolab.com?user=msamin-25&hide_border=true&theme=github-dark-blue"
