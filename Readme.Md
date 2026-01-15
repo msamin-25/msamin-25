@@ -72,7 +72,7 @@
 
 <div>
   <!-- Added TypeScript, JavaScript, C explicitly (plus your existing stack) -->
-  <img src="https://skillicons.dev/icons?i=ts,js,c,python,html,css,react,nodejs,express,sql,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=pythonts,js,c,c++,html,css,react,nodejs,express,git,github,figma" />
 </div>
 
 <br/>
