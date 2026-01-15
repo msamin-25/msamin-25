@@ -20,7 +20,7 @@
   <a href="https://x.com/itz_samin" target="_blank">
     <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" height="28" alt="X"/>
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:msamin@uwaterloo.ca">
     <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email"/>
   </a>
 
@@ -74,6 +74,26 @@
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,express,sql,git,github,figma,c" />
 </div>
 
+<br/>
+
+<!-- GitHub Stats -->
+<h2>📊 GitHub Stats</h2>
+
+<div align="center">
+  <!-- Overall stats -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=msamin-25&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub Stats" />
+
+  <!-- Streak -->
+  <img height="160" src="https://streak-stats.demolab.com?user=msamin-25&hide_border=true&theme=github-dark-blue" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <!-- Top languages -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msamin-25&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" />
+</div>
+
+<br/>
+
 <!-- Contact -->
 <h2>📫 Contact</h2>
 
@@ -88,4 +108,3 @@
 <div align="center">
   <i>If you're hiring for Summer 2026 and want someone who ships fast and learns faster — let's talk.</i>
 </div>
-
