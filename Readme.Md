@@ -7,7 +7,7 @@
 <div align="center">
   <h1>Hi, I'm Mohammad Samin 👋</h1>
   <p>
-    <b>Computer Science @ University of Waterloo</b> · Interested in building something new · Full Stack Developer ·
+    <b>Computer Science @ University of Waterloo</b> · Coding is fun · Full Stack Developer ·
     Seeking <b>Summer 2026</b> internship
   </p>
 
