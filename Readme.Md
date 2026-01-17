@@ -88,15 +88,6 @@
 
 <br />
 
-<!-- GitHub Stats -->
-<h2>📊 GitHub Stats</h2>
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=msamin-25&amp;theme=github-dark-blue&amp;hide_border=true"
-    alt="GitHub Streak"
-  />
-
-<br />
 <br />
 <h2>Contact</h2>
 <!-- Contact -->
