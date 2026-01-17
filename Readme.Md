@@ -15,19 +15,6 @@
 
   <br /><br />
 
-  <!-- Social -->
-  <a href="https://www.linkedin.com/in/mohammad-samin/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" height="28" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/itz_samin" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&amp;logo=x&amp;logoColor=white" height="28" alt="X" />
-  </a>
-  <a href="mailto:msamin@uwaterloo.ca">
-    <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" height="28" alt="Email" />
-  </a>
-
-  <br /><br />
-
   <!-- Quick badges -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=msamin-25.msamin-25" alt="visitor badge" />
   <img src="https://img.shields.io/badge/Location-Canada-2ea44f" alt="Location" />
@@ -112,12 +99,15 @@
 <br />
 
 <!-- Contact -->
-<h2>📫 Contact</h2>
-<p>
-  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/mohammad-samin/" target="_blank" rel="noreferrer">mohammad-samin</a><br />
-  <b>X:</b> <a href="https://x.com/itz_samin" target="_blank" rel="noreferrer">@itz_samin</a><br />
-  <b>Email:</b> msamin[at]uwaterloo[dot]ca
-</p>
+  <a href="https://www.linkedin.com/in/mohammad-samin/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" height="28" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/itz_samin" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&amp;logo=x&amp;logoColor=white" height="28" alt="X" />
+  </a>
+  <a href="mailto:msamin@uwaterloo.ca">
+    <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" height="28" alt="Email" />
+  </a>
 
 <br />
 
