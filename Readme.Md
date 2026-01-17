@@ -122,5 +122,5 @@
 <br />
 
 <div align="center">
-  <i>If you're hiring for Summer 2026 and want someone who ships fast, debug vibe codes, and learns faster — let's talk.</i>
+  <i>If you're hiring for Summer 2026 and want someone who ships fast, debugs vibe codes, and learns faster — let's talk.</i>
 </div>
