@@ -41,7 +41,7 @@
 <ul>
   <li>📍 Based in <b>London, ON, Canada</b></li>
   <li>🎓 Studying <b>Computer Science</b> at the <b>University of Waterloo</b></li>
-  <li>🧠 Interested in <b>ML</b>, <b>mathematical analysis</b>, and building tools that help people learn faster</li>
+  <li>🧠 Interested in <b>AI/ML</b>, <b>mathematical analysis</b>, and building tools that solve real-world problems.</li>
   <li>⚽ Outside of coding: soccer + building fun side projects</li>
 </ul>
 
@@ -122,5 +122,5 @@
 <br />
 
 <div align="center">
-  <i>If you're hiring for Summer 2026 and want someone who ships fast and learns faster — let's talk.</i>
+  <i>If you're hiring for Summer 2026 and want someone who ships fast, debug vibe codes, and learns faster — let's talk.</i>
 </div>
