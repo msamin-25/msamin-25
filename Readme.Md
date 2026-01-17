@@ -98,6 +98,7 @@
 
 <br />
 <br />
+<h2>Contact</h2>
 <!-- Contact -->
   <a href="https://www.linkedin.com/in/mohammad-samin/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" height="28" alt="LinkedIn" />
