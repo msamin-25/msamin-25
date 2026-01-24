@@ -87,6 +87,27 @@
 </div>
 
 <br />
+<h2>📊 GitHub Stats</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://raw.githubusercontent.com/msamin-25/github-stats/main/generated/overview.svg"
+          alt="GitHub Stats Overview"
+        />
+      </td>
+      <td>
+        <img
+          src="https://raw.githubusercontent.com/msamin-25/github-stats/main/generated/languages.svg"
+          alt="Most Used Languages"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <br />
 <div align="center">
