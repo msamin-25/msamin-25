@@ -106,7 +106,8 @@
   <!-- GitHub Streak Stats -->
   <!-- GitHub Trophy -->
   <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=msamin-25&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+<!-- Streak Stats (alternative provider) -->
+<img src="https://streak-stats.demolab.com/?user=msamin-25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
 </div>
 <br />
