@@ -87,28 +87,26 @@
 </div>
 
 <br />
+
+<!-- GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img
-          src="https://raw.githubusercontent.com/msamin-25/github-stats/main/generated/overview.svg"
-          alt="GitHub Stats Overview"
-        />
-      </td>
-      <td>
-        <img
-          src="https://raw.githubusercontent.com/msamin-25/github-stats/main/generated/languages.svg"
-          alt="Most Used Languages"
-        />
-      </td>
-    </tr>
-  </table>
+  
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msamin-25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  
+  <!-- Most Used Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msamin-25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  
 </div>
 
-
+<div align="center">
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msamin-25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+</div>
 <br />
 <div align="center">
 <h2>Contact</h2>
