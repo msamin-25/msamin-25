@@ -94,8 +94,7 @@
 <div align="center">
   
   <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msamin-25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  
+<img src="https://github-readme-stats.vercel.app/api?username=msamin-25&show_icons=true&theme=tokyonight&hide_rank=true&hide_border=true" alt="GitHub Stats" />
   <!-- Most Used Languages -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msamin-25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   
@@ -106,8 +105,6 @@
   <!-- GitHub Streak Stats -->
   <!-- GitHub Trophy -->
   <!-- Activity Graph -->
-  <!-- Commit Counter -->
-   <img src="https://github-readme-stats.vercel.app/api?username=msamin-25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
   
 </div>
 <br />
