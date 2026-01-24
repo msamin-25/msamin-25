@@ -102,9 +102,8 @@
 
 <div align="center">
   
-  <!-- GitHub Streak Stats -->
-  <!-- GitHub Trophy -->
-  <!-- Activity Graph -->
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=msamin-25&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
   
 </div>
 <br />
