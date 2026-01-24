@@ -104,7 +104,8 @@
 <div align="center">
   
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msamin-25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=msamin-25&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophy" />
   
 </div>
 <br />
