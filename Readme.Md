@@ -7,7 +7,7 @@
 <div align="center">
   <h1>Hi, I'm Mohammad Samin 👋</h1>
   <p>
-    Current SWE @RECO · <b>Computer Science @ University of Waterloo</b> · 
+    prev SWE @RECO · <b>Computer Science @ University of Waterloo</b> · 
     Seeking <b>Summer 2027</b> internship
   </p>
 
