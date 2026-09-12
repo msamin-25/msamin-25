@@ -28,7 +28,7 @@
 <ul>
   <li>📍 Based in <b>London, ON, Canada</b></li>
   <li>🎓 Studying <b>Computer Science</b> at the <b>University of Waterloo</b></li>
-  <li>🧠 Interested in <b>AI/ML</b>, <b>mathematical analysis</b>, and building tools that solve real-world problems.</li>
+  <li>🧠 Aspiring <b>AI Engineer</b> and <b>ML Researcher</b>, passionate about building tools that solve real-world problems and make everyday tasks <b>10× faster</b>.</li>
   <li>⚽ Outside of coding: soccer + building fun side projects</li>
 </ul>
 
