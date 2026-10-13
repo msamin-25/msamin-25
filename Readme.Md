@@ -7,8 +7,8 @@
 <div align="center">
   <h1>Hi, I'm Mohammad Samin 👋</h1>
   <p>
-    prev SWE @RECO · <b>Computer Science @ University of Waterloo</b> · 
-    Seeking <b>Summer 2027</b> internship
+    Seeking <b>Summer 2027</b> internship · <b>Computer Science @ University of Waterloo</b> · prev SWE @RECO | ML Engineer @WATai
+    
   </p>
 
   <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Waving hand gif" />
