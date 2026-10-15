@@ -32,19 +32,6 @@ I build full-stack products and applied ML systems. Currently developing a speec
 - 🏆 **Winner, Formula Tech Hack** — **ImpactIQ**: real-time vehicle impact analysis (Arduino, Three.js, FastAPI)
 - 🏆 **Best Project, CXC Hackathon** — **Games.Random**: browser coding-game sandbox (Phaser 3, Node.js, MongoDB)
 
-### Tech Stack
-
-<img src="https://skillicons.dev/icons?i=py,ts,js,c,cpp,html,css,react,nodejs,express,fastapi,threejs,tailwind,vite&perline=14" alt="Python, TypeScript, JavaScript, C, C++, HTML, CSS, React, Node.js, Express, FastAPI, Three.js, Tailwind CSS, Vite" />
-<br />
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,azure,aws,vercel,pytorch,sklearn,arduino,git,githubactions,linux,figma&perline=14" alt="PostgreSQL, MongoDB, Redis, Supabase, Azure, AWS, Vercel, PyTorch, scikit-learn, Arduino, Git, GitHub Actions, Linux, Figma" />
-
-| | |
-|---|---|
-| **Languages** | Python · TypeScript · JavaScript · C/C++ · SQL · HTML/CSS |
-| **Frameworks** | React · React Native · Capacitor · Node.js · Express · FastAPI · Three.js · Tailwind CSS · Vite · Streamlit |
-| **Databases & Cloud** | PostgreSQL · MySQL · MongoDB · Supabase · Redis · Microsoft Azure · AWS · Vercel |
-| **AI & Data** | PyTorch · scikit-learn · Azure OpenAI · RAG · OCR · Pandas · NumPy · Power BI |
-| **Tools** | Git · GitHub Actions · Azure DevOps · REST APIs · Jest · ESLint · Linux · Arduino · SolidWorks (FEA) · TestFlight · Figma |
 
 ## 🧰 Tech Stack
 
