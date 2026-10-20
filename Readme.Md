@@ -55,5 +55,5 @@ I build full-stack products and applied ML systems. Currently developing a speec
 <div align="center">
   <b>Hiring for Summer 2027?</b> I'd love to chat → <a href="mailto:msamin@uwaterloo.ca"><b>msamin@uwaterloo.ca</b></a>
   <br /><br />
-  <sub>If you scrolled this far, you're either a recruiter or my mom. Hi to both. 👋</sub>
+  <sub>If you scrolled this far, you're either a recruiter or my father. Hi to both. 👋</sub>
 </div>
