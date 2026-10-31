@@ -32,7 +32,6 @@ I build full-stack products and applied ML systems. Currently developing a speec
 - 🏆 **Winner, Formula Tech Hack** — **ImpactIQ**: real-time vehicle impact analysis (Arduino, Three.js, FastAPI)
 - 🏆 **Best Project, CXC Hackathon** — **Games.Random**: browser coding-game sandbox (Phaser 3, Node.js, MongoDB)
 
-
 ## 🧰 Tech Stack
 
 <p align="center">
