@@ -35,7 +35,7 @@ I build full-stack products and applied ML systems. Currently developing a speec
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,c,cpp,html,css,react,nodejs,express,fastapi,threejs,tailwind,vite&perline=14&theme=dark" alt="Languages and frameworks" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,c,html,css,react,nodejs,express,fastapi,threejs,tailwind,vite&perline=14&theme=dark" alt="Languages and frameworks" />
   <br />
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,azure,aws,vercel,pytorch,sklearn,arduino,git,githubactions,linux,figma&perline=14&theme=dark" alt="Data, cloud, ML and tools" />
 </p>
